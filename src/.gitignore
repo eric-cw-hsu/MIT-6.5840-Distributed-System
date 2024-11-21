@@ -10,3 +10,6 @@ mrtmp.*
 /main/mrcoordinator
 /main/mrsequential
 /main/mrworker
+
+tmp/
+mr-out-*
